@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989449137546",
+    "firebase_url": "https://virusbleep-bc8c8.firebaseio.com",
+    "project_id": "virusbleep-bc8c8",
+    "storage_bucket": "virusbleep-bc8c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989449137546:android:6a25ae9d55bff0d493ac73",
+        "android_client_info": {
+          "package_name": "com.tbi.coronavirus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989449137546-koee207p3q3nj93766dsgqaaunsbdguf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBryrpgN3BAPR6Sa8vTXDTXI79kVIFiz3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989449137546-koee207p3q3nj93766dsgqaaunsbdguf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

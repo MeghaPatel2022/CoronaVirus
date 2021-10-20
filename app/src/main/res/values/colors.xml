@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#5ED692</color>
+
+    <color name="light_black">#B9B9B9</color>
+    <color name="signup_login_btn_color">#F9E565</color>
+    <color name="positive_color">#e75748</color>
+    <color name="negetive_color">#3700B3</color>
+    <color name="may_be_infacted_color">#03DAC5</color>
+
+    <color name="red">#C70D3A</color>
+    <color name="orange">#F9E565</color>
+
+    <color name="light_grey">#515151</color>
+</resources>
